@@ -1,0 +1,4 @@
+user-agent: *
+allow: /
+
+sitemap: https://beststarnews.github.io/spotlight/sitemap_index.xml
